@@ -1,8 +1,7 @@
-<!-- 
-```markdown
+
 # Nome do Projeto
 
-![Logo do Projeto](../vite-project/public/vite.svg)
+![Logo do Projeto](/vite-project/src/assets/imgReadme.png)
 
 Descrição curta do projeto e o que ele faz.
 
@@ -90,5 +89,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - Nome do Criador: [Matheus Mendes dos Reis](https://github.com/MathMendesReis)
 - Email: matheusmendesreisspa@gmail.co,
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/matheus-mendes-reis/)
-```
- -->
+
